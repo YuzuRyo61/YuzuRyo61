@@ -14,8 +14,8 @@ Yuzulia(Personal site) founder. https://yuzulia.com/
 
 - JavaScript: 60%
 
+- Rust: 50%
+
 - TypeScript: 40%
 
 - Ruby: 30%
-
-- Rust: 30%
