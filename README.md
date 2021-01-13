@@ -12,9 +12,9 @@ Yuzulia(Personal site) founder. https://yuzulia.com/
 
 - Python: 100% **(Primary)**
 
-- JavaScript: 60%
+- Rust: 60% **(Secondary)**
 
-- Rust: 50%
+- JavaScript: 60%
 
 - TypeScript: 40%
 
