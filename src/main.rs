@@ -1,52 +1,31 @@
-#[macro_use]
-extern crate clap;
+//! # YuzuRyo61
+//! Introduction program of YuzuRyo61 profile.
 
-use clap::{SubCommand, AppSettings, Arg};
+use yuzuryo61::variables::{BLOG_URL, SITE_URL, get_clap_app};
 
+/// メインプログラム
 fn main() -> std::io::Result<()> {
-    let app = app_from_crate!()
-        .name("YuzuRyo61")
-        .setting(AppSettings::ArgRequiredElseHelp)
-        .subcommand(SubCommand::with_name("site")
-            .about("Open browser(or print URL) to my site")
-            .arg(Arg::with_name("no_open")
-                .short("o")
-                .long("no-open")
-                .help("Do not open the browser")
-                .required(false)
-                .takes_value(false))
-        )
-        .subcommand(SubCommand::with_name("blog")
-            .about("Open browser(or print URL) to blog site")
-            .arg(Arg::with_name("no_open")
-                .short("o")
-                .long("no-open")
-                .help("Do not open the browser")
-                .required(false)
-                .takes_value(false))
-        );
+    let app = get_clap_app();
     let matches = app.get_matches();
 
     if let Some(am) = matches.subcommand_matches("site") {
-        let site_url = "https://yuzuryo61.me";
         if !am.is_present("no_open") {
-            if let Err(_) = webbrowser::open(&site_url) {
-                println!("{}", site_url);
+            if let Err(_) = webbrowser::open(&SITE_URL) {
+                println!("{}", SITE_URL);
             }
         } else {
-            println!("{}", site_url);
+            println!("{}", SITE_URL);
         }
         return Ok(());
     };
 
     if let Some(am) = matches.subcommand_matches("blog") {
-        let site_url = "https://yuzulia.com/";
         if !am.is_present("no_open") {
-            if let Err(_) = webbrowser::open(&site_url) {
-                println!("{}", site_url)
+            if let Err(_) = webbrowser::open(&BLOG_URL) {
+                println!("{}", BLOG_URL)
             }
         } else {
-            println!("{}", site_url);
+            println!("{}", BLOG_URL);
         }
         return Ok(());
     };
