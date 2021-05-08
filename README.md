@@ -10,9 +10,9 @@ Yuzulia(Personal site) founder. https://yuzulia.com/
 
 ## Degree of learning programming language
 
-- Python: 100% **(Primary)**
+- Python: 100%
 
-- Rust: 60% **(Secondary)**
+- Rust: 60%
 
 - Go: 60%
 
