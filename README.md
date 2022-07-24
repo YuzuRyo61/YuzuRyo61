@@ -8,17 +8,21 @@ I keep writing "Hello World".
 
 I like Web applications.
 
-### $ cat /etc/programming-lang
+### $ cat /etc/notice
+
+I have **NOT** own my official Twitter account!
+
+### $ cat /etc/programming-lang.txt
 
 Python, Rust(Partical), Go, JavaScript, TypeScript(Partical)
 
-### $ link
+### $ cat /etc/link.txt
 
 https://yuzuryo61.me/
 
 https://yuzulia.com/
 
-### $ social main
+### $ cat /etc/social.txt
 
 https://misskey.io/@YuzuRyo61
 
