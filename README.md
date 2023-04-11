@@ -24,7 +24,7 @@ Qualification: 基本情報技術者(Japan, since 2021), 第二種電気工事�
 
 https://yuzuryo61.me/
 
-Yuzulia(My brog site): https://yuzulia.com/
+Yuzulia(My blog site): https://yuzulia.com/
 
 ### $ cat /etc/social
 
