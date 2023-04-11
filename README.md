@@ -2,35 +2,37 @@
 
 YuzuRyo61
 
+Japanese: ゆずりょー
+
 ### $ cat /etc/motd
 
-I keep writing "Hello World".
-
-I like Web applications.
+Finding the Fox 🦊
 
 ### $ cat /etc/notice
 
-I have **NOT** own my official Twitter account!
+YuzuRyo61 and Yuzulia has **NOT** own my official Twitter account!
 
-### $ cat /etc/programming-lang.txt
+ゆずりょー及びYuzuliaの公式Twitterアカウントはございません。
 
-Python, Rust(Partical), Go, JavaScript, TypeScript(Partical)
+### $ cat /etc/skill
 
-### $ cat /etc/link.txt
+Programming: Python, JavaScript, TypeScript
+
+Qualification: 基本情報技術者(Japan, since 2021), 第二種電気工事士(Japan, since 2019)
+
+### $ cat /etc/link
 
 https://yuzuryo61.me/
 
-https://yuzulia.com/
+Yuzulia(My brog site): https://yuzulia.com/
 
-### $ cat /etc/social.txt
+### $ cat /etc/social
 
-https://misskey.io/@YuzuRyo61
+Main: https://misskey.io/@YuzuRyo61
 
-### $ achievement
+Fallback: https://nijimiss.moe/@YuzuRyo61
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YuzuRyo61)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=YuzuRyo61)](https://github.com/ryo-ma/github-profile-trophy)
+VRChat: https://vrchat.com/home/user/usr_c09bba68-21a4-4b25-8af0-5bb03b0265f1
 
 ### $ keybase
 
