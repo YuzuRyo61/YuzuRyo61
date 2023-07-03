@@ -10,7 +10,7 @@ Finding the Fox 🦊
 
 ### $ cat /etc/notice
 
-YuzuRyo61 and Yuzulia has **NOT** own my official Twitter account!
+YuzuRyo61 and Yuzulia has **NOT** own official Twitter account!
 
 ゆずりょー及びYuzuliaの公式Twitterアカウントはございません。
 
