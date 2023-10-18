@@ -10,7 +10,7 @@ Finding the Fox 🦊
 
 ### $ cat /etc/notice
 
-YuzuRyo61 and Yuzulia has **NOT** own official Twitter account!
+YuzuRyo61 and Yuzulia do not have official Twitter accounts.
 
 ゆずりょー及びYuzuliaの公式Twitterアカウントはございません。
 
@@ -32,7 +32,11 @@ Main: https://misskey.io/@YuzuRyo61
 
 Fallback: https://nijimiss.moe/@YuzuRyo61
 
-VRChat: https://vrchat.com/home/user/usr_c09bba68-21a4-4b25-8af0-5bb03b0265f1
+mofmof.coffee: https://mofmof.coffee/@YuzuRyo61
+
+Other accounts are listed at https://yuzuryo61.me/ .
+
+他アカウントは https://yuzuryo61.me/ に掲載しています。
 
 ### $ keybase
 
