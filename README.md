@@ -24,20 +24,12 @@ Qualification: 基本情報技術者(Japan, since 2021), 第二種電気工事�
 
 https://yuzuryo61.me/
 
-Yuzulia(My blog site): https://yuzulia.com/
+Yuzulia(My blog site): https://www.yuzulia.com/
 
 ### $ cat /etc/social
 
 Main: https://misskey.io/@YuzuRyo61
 
-Fallback: https://nijimiss.moe/@YuzuRyo61
-
-mofmof.coffee: https://mofmof.coffee/@YuzuRyo61
-
 Other accounts are listed at https://yuzuryo61.me/ .
 
 他アカウントは https://yuzuryo61.me/ に掲載しています。
-
-### $ keybase
-
-[yuzuryo61](https://keybase.io/yuzuryo61) (This account is verified! Proof is in Keybase profile.)
