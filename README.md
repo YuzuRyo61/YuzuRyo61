@@ -14,6 +14,10 @@ YuzuRyo61 and Yuzulia do not have official Twitter accounts.
 
 ゆずりょー及びYuzuliaの公式Twitterアカウントはございません。
 
+For privacy reasons, my GitHub profile is set to private.
+
+プライバシーの関係上、GitHubプロフィールはプライベートに設定しています。
+
 ### $ cat /etc/skill
 
 Programming: Python, JavaScript, TypeScript
