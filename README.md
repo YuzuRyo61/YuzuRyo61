@@ -4,36 +4,46 @@ YuzuRyo61
 
 Japanese: ゆずりょー
 
-### $ cat /etc/motd
+### $ ls ~
+
+motd.txt notice.txt link.txt skill.txt social.txt
+
+### $ cat ~/motd.txt
 
 Finding the Fox 🦊
 
-### $ cat /etc/notice
+The genkai Mio-fam who loved Ookami Mio 🌲 (Oshi, hololive)
 
-YuzuRyo61 and Yuzulia do not have official Twitter accounts.
+大神ミオ最推しの限界ミオファ🌲
+
+### $ cat ~/notice.txt
+
+YuzuRyo61 and Yuzulia does NOT have official Twitter accounts.
 
 ゆずりょー及びYuzuliaの公式Twitterアカウントはございません。
 
-For privacy reasons, my GitHub profile is set to private.
+For privacy reasons, my GitHub profile is set to private. sorry.
 
 プライバシーの関係上、GitHubプロフィールはプライベートに設定しています。
 
-### $ cat /etc/skill
+### $ cat ~/skill.txt
 
 Programming: Python, JavaScript, TypeScript
 
-Qualification: 基本情報技術者(Japan, since 2021), 第二種電気工事士(Japan, since 2019)
+Infra: Linux (Ubuntu, Red Hat and AlmaLinux etc.)
 
-### $ cat /etc/link
+Qualification: 基本情報技術者(Japan, since 2021), LinuC Level 1(Japan, since 2025), 第二種電気工事士(Japan, since 2019)
+
+### $ cat ~/link.txt
 
 https://yuzuryo61.me/
 
 Yuzulia(My blog site): https://www.yuzulia.com/
 
-### $ cat /etc/social
+### $ cat ~/social.txt
 
-Main: https://misskey.io/@YuzuRyo61
+Mainly maintained accounts are:
 
-Other accounts are listed at https://yuzuryo61.me/ .
+https://misskey.io/@YuzuRyo61
 
-他アカウントは https://yuzuryo61.me/ に掲載しています。
+https://mofmof.coffee/@YuzuRyo61
