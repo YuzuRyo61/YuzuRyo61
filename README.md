@@ -6,7 +6,7 @@ Japanese: ゆずりょー
 
 ### $ ls ~
 
-motd.txt notice.txt link.txt skill.txt social.txt
+contact.txt motd.txt notice.txt link.txt skill.txt social.txt
 
 ### $ cat ~/motd.txt
 
@@ -47,3 +47,11 @@ Mainly maintained accounts are:
 https://misskey.io/@YuzuRyo61
 
 https://mofmof.coffee/@YuzuRyo61
+
+### $ cat ~/contact.txt
+
+Please contact via Yuzulia Site below.
+
+Yuzuliaサイトからお問い合わせください。
+
+https://www.yuzulia.com/contact/
