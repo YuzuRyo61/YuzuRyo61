@@ -12,7 +12,7 @@ contact.txt motd.txt notice.txt link.txt skill.txt social.txt
 
 Finding the Fox 🦊
 
-The genkai Mio-fam who loved Ookami Mio 🌲 (Oshi, hololive)
+The genkai Mio-fam who loves Ookami Mio 🌲 (Oshi, hololive)
 
 大神ミオ最推しの限界ミオファ🌲
 
